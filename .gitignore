@@ -64,3 +64,5 @@ buck-out/
 
 src/secrets.js
 android/app/google-services.json
+android/app/debug.keystore
+android/gradle.properties

@@ -4,8 +4,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import Dashboard from '../components/Dashboard';
 import AddTodo from '../components/AddTodo';
 import Profile from '../components/Profile';
-import Contacts from '../components/Contacts';
-import Groups from '../components/Groups';
+import Contacts from '../components/Contacts/Contacts';
+import Groups from '../components/Groups/Groups';
 import { NavigationContainer } from '@react-navigation/native';
 
 const Tab = createBottomTabNavigator();

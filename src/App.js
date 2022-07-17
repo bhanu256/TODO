@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 import auth from '@react-native-firebase/auth'
-import message from '@react-native-firebase/messaging'
 
 import Login from './components/Login';
 import Signup from './components/Signup';

@@ -1,0 +1,1 @@
+export const SEND_FRIEND_REQUEST_URL = 'https://us-central1-todo-5bff8.cloudfunctions.net/sendFriendRequest';
